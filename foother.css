@@ -1,0 +1,42 @@
+.foother{
+background: #F8F8F8;
+Height: 300px;
+display:flex;
+    margin: 15px;
+
+}
+.foother1{
+width:30%;
+padding:7px;
+
+}
+.foother1 img{
+border-radius: 0px}
+.foother2{
+width:15%;
+padding:7px;
+
+}
+.foother3{
+width:15%;
+padding:7px;
+
+}
+.foother4{
+width:20%;
+padding:7px;
+
+}
+.foother5{
+width:20%;
+padding:7px;
+
+}
+.foother6{
+width:auto;
+padding:17px;
+Height: 10px;
+text-align: center;
+
+
+}
